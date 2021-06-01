@@ -1,5 +1,5 @@
 /***************************************************
-  Vivin Kumar Loganathan | KIKFUC-17 | Class of 2021
+  Not my real name => *Pressen* | KIKFUC-17 | Class of 2021
   Bachelor Thesis - Vilnius Gediminas Technical University
   Faculty of Electronics :: Department of Computer Engineering
   Rubik's Cube Solver Robot
